@@ -50,7 +50,7 @@ const Main = () => {
         {
           image:
             "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d",
-          title: "Oo tunir ma",
+          title: "Oo tunir ma tumi tunire bujhauna",
           description: "Sung by Maksed and Sadek",
           url: "",
         },
